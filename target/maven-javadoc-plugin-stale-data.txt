@@ -1,0 +1,23 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-17.0.2\bin\javadoc.exe" @options @packages"
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\allclasses-index.html = 1642787242548
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\allpackages-index.html = 1642787242551
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\element-list = 1642787242378
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\help-doc.html = 1642787242584
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\index-all.html = 1642787242575
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\index.html = 1642787242578
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\jquery-ui.overrides.css = 1642787242621
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\member-search-index.js = 1642787242556
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\module-search-index.js = 1642787242552
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\options = 1642787240370
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\overview-tree.html = 1642787242529
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\package-search-index.js = 1642787242554
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\packages = 1642787240372
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\script.js = 1642787242588
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\search.js = 1642787242591
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\serialized-form.html = 1642787242487
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\stylesheet.css = 1642787242586
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\tag-search-index.js = 1642787242558
+C:\Users\mikah\Dropbox\link ksna kemari\uas_pbo2_19710116\target\apidocs\type-search-index.js = 1642787242555
